@@ -26,4 +26,4 @@ Template: [moozthemes.com](https://moozthemes.com)
 
 ## License
 
-GNU GENERAL PUBLIC LICENSE. See [LICENSE] file.
+GNU GENERAL PUBLIC LICENSE. See [LICENSE](LICENSE) file.
