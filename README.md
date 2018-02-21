@@ -1,4 +1,4 @@
-Check out the live [DEMO](http://www.clustmart.com/romaniatourism/)
+Check out the live [DEMO](https://www.clustmart.com/romaniatourism/)
 
 ## Motivation
 
@@ -21,9 +21,9 @@ http://developers.outdooractive.com/Overview/ - check this out if you want to us
 
 ## Credits
 
-Images: pixabay.com 
-Template: moozthemes.com
+Images: [pixabay.com](https://www.pixabay.com)
+Template: [moozthemes.com](https://moozthemes.com)
 
 ## License
 
-GNU GENERAL PUBLIC LICENSE
+GNU GENERAL PUBLIC LICENSE. See [LICENSE] file.
