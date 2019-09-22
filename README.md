@@ -1,5 +1,3 @@
-Check out the live [DEMO](https://www.clustmart.com/romaniatourism/)
-
 ## Motivation
 
 The template is intended to demonstrate how you can integrate a HTML website with Outdooractive and Tripadvisor widgets. It can be inspiration for your own destination/travel/outdoor/hotel/accomodation website.
